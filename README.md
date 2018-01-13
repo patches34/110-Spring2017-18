@@ -1,15 +1,12 @@
-# IGME-110 Introduction to Interactive Media, Fall 2017: Syllabus
+# IGME-110 Introduction to Interactive Media, Spring 2017-18: Syllabus
 
 ## Instructor and Class Details
-- Professor Elizabeth Lawley  
-  - Office: GOL-2545
-  - Email: Elizabeth.Lawley@rit.edu
+- Professor Eric Baker  
+  - Office: GOL-2569
+  - Email: eabigm@gmail.com
   - Office hours: T/Th 10am-12pm 
-- TA Emily Turner
-  - Email: ekt6170 at rit dot edu
-  - Lab Hours: TBA
-- Class Slack: https://lawley-110-2017.slack.com/
-- Class Time/Location: Tuesdays & Thursdays, 8-9:20am, 1370 Orange Hall
+- Class Slack: https://baker-110-2017-18.slack.com/
+- Class Time/Location: Mondays, Wednnesdays & Fridays, 12:20-1:15pm, GOL-2570
 - [Schedule of Topics and Assignments](Schedule.md) 
 
 ## Course Catalog Description 
@@ -57,12 +54,12 @@ You will be assigned to a group for collaborative note-taking during the semeste
 ## Additional Policies
 
 ### Important RIT Deadlines
-- Last day of add/drop is 5 September 2017.
-- Last day to withdraw with a grade of “W” is 10 November 2017.
+- Last day of add/drop is 23 January 2018.
+- Last day to withdraw with a grade of “W” is 6 April 2018.
 - You have one semester after the class has ended to challenge your grade. 
 
 ### Communication
-Any updates to assignments or the syllabus will be posted in Github and automatically announced in Slack. Major announcements (such as class cancellations) will be posted in the general channel in Slack. This means you should regularly check the class Slack, and consider setting up notifications for the general channel. I check both email and Slack frequently, and will try to always respond within 24 hours (the exception to this is when I’m traveling, for which I’ll give you advance notice). You will get a faster response using Slack, with the bonus that other people in the class can help answer questions, as well. If you want to send me email, please make sure you send it from your RIT account to my primary RIT email: Elizabeth dot Lawley at rit dot edu. 
+Any updates to assignments or the syllabus will be posted in Github and automatically announced in Slack. Major announcements (such as class cancellations) will be posted in the general channel in Slack. This means you should regularly check the class Slack, and consider setting up notifications for the general channel. I check both email and Slack frequently, and will try to always respond within 24 hours (the exception to this is when I’m traveling, for which I’ll give you advance notice). You will get a faster response using Slack, with the bonus that other people in the class can help answer questions, as well. If you want to send me email, please make sure you send it from your RIT account to my primary RIT email: eabigm at gmail dot com. 
 ### Late Policy
 If you are having problems with an assignment or have an emergency that may make you late in submitting your work, please contact me before the due date. Late assignments that have not been cleared with me before the due date may not be accepted, or may incur a grade penalty. 
 ### Missed Classes
@@ -73,8 +70,6 @@ I will have a minimum of four office hours per week. This is an excellent time t
 Please turn off sounds on your phone, so that you don’t disturb the people around you with notification noises. If you must take a call, please leave the room to do so. 
 ### Notices of Accommodation
 If you have a notice of accommodation, I should have received a copy electronically. Please discuss this with me after class or during my office hours, so that I can make sure all of your accommodations are met. 
-### Social Networks
-I don’t initiate friend requests on Facebook, because I don’t want you to feel obligated to accept. However, I do generally accept friend requests from students. I have a private Twitter account that I seldom use, and don’t accept follower requests on it. I maintain a LinkedIn account, and am happy to connect with students there in order to help them find job-related connections. Links to my various social media accounts can be found on my website (lawley.rit.edu). 
 ### Policy on Incomplete Grades
 Incomplete grades will be given only in the most exceptional circumstances, and then only by prior arrangement with me. Note that I only give incompletes in the event of: 1) military deployment or 2) documented and verifiable family or personal illness/emergency. Being overcommitted, overwhelmed, and/or not having enough time to complete your coursework does not fall into either of those two categories. Please come see me ASAP if you’re having difficulty so we can find a solution together. 
 ### Academic Dishonesty
