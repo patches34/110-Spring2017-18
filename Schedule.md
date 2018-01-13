@@ -1,4 +1,4 @@
-# IGME-110 Introduction to Interactive Media, Fall 2017: Schedule of Topics
+# IGME-110 Introduction to Interactive Media, Spring 2017-18: Schedule of Topics
 
 ## Contents
 - [Week 1 (Jan 17-19): Course Overview & Communication](#week1)
@@ -17,6 +17,12 @@
 - [Week 14 (Apr 23-27): Responsible Social Media Use](#week14)
 - [Week 15 (Apr 30): Presentation Skills](#week15)
 - [Finals Week (May 2): Final Presentations](projects/Presentation.md)
+
+**Tuesday -> Monday**
+
+**Thursday -> Friday**
+
+**Wednesday will be a hybrid of Tue/Thur**
 
 ## <a name="week1">Week 1</a> (Jan 17-19): Course Overview & Communication Tools
 On Tuesday, I will review the syllabus, goals, and requirements for class, as well as methods for accessing course materials on both GitHub and myCourses. On Thursday, we'll discuss communication tools you'll be using in the class, including email, Slack, and Google Docs.  
