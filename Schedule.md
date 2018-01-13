@@ -42,7 +42,7 @@ On Tuesday, I will review the syllabus, goals, and requirements for class, as we
 
 This week we'll be talking about information--how to find it, and how to evaluate it.  On Tuesday, we'll talk broadly about critically evaluating information online. On Thursday, we'll focus on research tools and methods, with a focus on library resources you can use for your [research paper assignment](projects/Paper.md).
 
-Your [paper topic idea(s)](projects/Paper.md) must be submitted to the myCourses dropbox before class on Tuesday, 9/5. 
+Your [paper topic idea(s)](projects/Paper.md) must be submitted to the myCourses dropbox before class on Tuesday, 1/22. 
 
 - **Tuesday Readings**
   - [How to Spot Fake News - FactCheck.org, Nov 2016)](http://www.factcheck.org/2016/11/how-to-spot-fake-news/)
@@ -54,7 +54,7 @@ Your [paper topic idea(s)](projects/Paper.md) must be submitted to the myCourses
 - **Thursday Readings**
   - [Lynda.com: Writing a Research Paper (Video tutorial, 1h56m)](https://www.lynda.com/Education-Student-Tools-tutorials/Writing-Research-Papers/158319-2.html?org=rit.edu) 
 
-- **[Thursday Exercise/Homework](weekly_materials/week2/bibExercise.md)**: If there's time, we'll start on this bibliography creation assignment in class; it's due by midnight on Sunday, 9/10.
+- **[Thursday Exercise/Homework](weekly_materials/week2/bibExercise.md)**: If there's time, we'll start on this bibliography creation assignment in class; it's due by midnight on Sunday, 1/28.
 
 
 ## <a name="week3">Week 3</a> (Jan 29-Feb 2): Legal Issues for Media Creators
@@ -172,7 +172,7 @@ This week we'll talk about the underlying concepts critical to understanding dig
 - **Thursday Exercise**: This class will be devoted to work and critique time for your web projects. (This is not optional.) 
 
 ## <a name="week10">Week 10 (Mar 26-30): HTML & CSS Review
-On Tuesday I'll review some HTML & CSS concepts. If there's time, I'll give you a chance to work on improving your web project.  If you are comfortable with your mastery of HTML, you can choose to skip Tuesday's class. However, students who attend class on Tuesday will be given an extension on their web project until 11:59pm on Friday, November 3. 
+On Tuesday I'll review some HTML & CSS concepts. If there's time, I'll give you a chance to work on improving your web project.  If you are comfortable with your mastery of HTML, you can choose to skip Tuesday's class. However, students who attend class on Tuesday will be given an extension on their web project until 11:59pm on Friday, March 30. 
 
 On Thursday I will give a quiz on the HTML & CSS concepts in the readings, and will again provide work time on your projects.
 
@@ -190,7 +190,7 @@ On Thursday I will give a quiz on the HTML & CSS concepts in the readings, and w
   - [Adobe.com: Video and Animation Overview](https://helpx.adobe.com/photoshop/using/video-animation-overview.html)
   - [Adobe.com: Creating Frame Animations](http://helpx.adobe.com/photoshop/using/creating-frame-animations.html)
 
-- **[Thursday Exercise](weekly_materials/week11/animationExercise.md)** - This exercise will give you experience with creating animations in Photoshop. If you choose to work on this on your own rather than coming to class on Thursday, the URL for your finished animation must be submitted to the myCourses dropbox by the beginning of Thursday's class. If you come to class on Thursday, it is due by 6pm on Saturday, November 11th.
+- **[Thursday Exercise](weekly_materials/week11/animationExercise.md)** - This exercise will give you experience with creating animations in Photoshop. If you choose to work on this on your own rather than coming to class on Thursday, the URL for your finished animation must be submitted to the myCourses dropbox by the beginning of Thursday's class. If you come to class on Thursday, it is due by 6pm on Saturday, April 7th.
 
 ## <a name="week12">Week 12</a> (Apr 9-13): Digital Audio Concepts
 
@@ -203,9 +203,9 @@ On Thursday I will give a quiz on the HTML & CSS concepts in the readings, and w
   - [Lynda.com: Learning Audacity](https://www.lynda.com/Audacity-tutorials/Up-Running-Audacity/111697-2.html?org=rit.edu)
   - [Audacity Software Download](http://www.audacityteam.org/download/) - Only necessary if want to do the tutorial on your own computer. 
 
-- **[Thursday Exercise: Audio Narration](weekly_materials/week12/audioExercise.md)** - In this exercise you will use Audacity to record narration for a PowerPoint presentation, and then attach the narration to the presentation. If you choose to work on this on your own rather than coming to class on Thursday, the completed presentation, with working audio, must be submitted to the myCourses dropbox by the beginning of Thursday's class. If you come to class on Thursday, the exercise is due by 6pm on Saturday, November 18th.
+- **[Thursday Exercise: Audio Narration](weekly_materials/week12/audioExercise.md)** - In this exercise you will use Audacity to record narration for a PowerPoint presentation, and then attach the narration to the presentation. If you choose to work on this on your own rather than coming to class on Thursday, the completed presentation, with working audio, must be submitted to the myCourses dropbox by the beginning of Thursday's class. If you come to class on Thursday, the exercise is due by 6pm on Saturday, April 14th.
 
-- **[Alternate Thursday Exercise: Captioning Video](weekly_materials/week12/captioningExercise.md)** - In this exercise you will create a video from a PowerPoint presentation, and then use YouTube's editing tools to create closed captions for the video instead of audio narration. If you choose to work on this on your own rather than coming to class on Thursday, the completed presentation, with working audio, must be submitted to the myCourses dropbox by the beginning of Thursday's class. If you come to class on Thursday, the exercise is due by 6pm on Saturday, November 18th.
+- **[Alternate Thursday Exercise: Captioning Video](weekly_materials/week12/captioningExercise.md)** - In this exercise you will create a video from a PowerPoint presentation, and then use YouTube's editing tools to create closed captions for the video instead of audio narration. If you choose to work on this on your own rather than coming to class on Thursday, the completed presentation, with working audio, must be submitted to the myCourses dropbox by the beginning of Thursday's class. If you come to class on Thursday, the exercise is due by 6pm on Saturday, April 14th.
 
 ## <a name="week13">Week 13</a> (Apr 16-20): Digital Video Concepts
 It's unrealistic for me to think you'll do much reading over Thanksgiving, so there are no readings for Tuesday. :) Instead of giving a readings quiz at the beginning of class, I'll give a lecture quiz at the end of class. 
@@ -214,7 +214,7 @@ It's unrealistic for me to think you'll do much reading over Thanksgiving, so th
   - [Adobe.com: Video Editing Basics](https://helpx.adobe.com/photoshop/how-to/video-editing.html)
   - [Lynda.com: Photoshop CC 2017 One-on-One: Section 37 (Editing Videos)](https://www.lynda.com/Photoshop-tutorials/Why-edit-video-Photoshop/497777/635164-4.html?org=rit.edu)
 
-- **[Thursday Exercise](weekly_materials/week14/videoExercise.md)** - In this exercise you will use Photoshop to create a short video trailer for a game, and then upload the resulting video to YouTube. If you choose to work on this on your own rather than coming to class on Thursday, the completed presentation, with working audio, must be submitted to the myCourses dropbox by the beginning of Thursday's class. If you come to class on Thursday, the exercise is due by 6pm on Saturday, November 25th.
+- **[Thursday Exercise](weekly_materials/week14/videoExercise.md)** - In this exercise you will use Photoshop to create a short video trailer for a game, and then upload the resulting video to YouTube. If you choose to work on this on your own rather than coming to class on Thursday, the completed presentation, with working audio, must be submitted to the myCourses dropbox by the beginning of Thursday's class. If you come to class on Thursday, the exercise is due by 6pm on Saturday, April 21th.
 
 ## <a name="week14">Week 14</a> (Apr 23-27): Responsible Social Media Use
 
@@ -225,7 +225,7 @@ It's unrealistic for me to think you'll do much reading over Thanksgiving, so th
   - [This American Life #545: If You Don’t Have Anything Nice to Say, SAY IT IN ALL CAPS](https://www.thisamericanlife.org/radio-archives/episode/545/if-you-dont-have-anything-nice-to-say-say-it-in-all-caps) (53m)
 
 ## <a name="week15">Week 15</a> (Apr 30): Presentation Skills
-This week we'll discuss the importance of good presentation skills, and look at examples of effective short-form presentations. If you will be missing Tuesday's class due to travel plans, you will need to watch the [playlist of videos](https://www.youtube.com/playlist?list=PLE69E0D90EC25930C) on your own, and complete the "Week 13 Lecture Materials Homework" in the Quizzes section of myCourses. Students attending class on Tuesday do not need to complete the homework, but will have a quiz on the readings. 
+This week we'll discuss the importance of good presentation skills, and look at examples of effective short-form presentations. If you will be missing Tuesday's class due to travel plans, you will need to watch the [playlist of videos](https://www.youtube.com/playlist?list=PLE69E0D90EC25930C) on your own, and complete the "Week 15 Lecture Materials Homework" in the Quizzes section of myCourses. Students attending class on Tuesday do not need to complete the homework, but will have a quiz on the readings. 
 
 - **Readings**
   - [Garr Reynolds' Top Ten Slide Tips](http://www.garrreynolds.com/preso-tips/design/)
