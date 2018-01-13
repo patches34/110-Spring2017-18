@@ -6,7 +6,7 @@
   - Email: eabigm@gmail.com
   - Office hours: T/Th 10am-12pm 
 - Class Slack: https://baker-110-2017-18.slack.com/
-- Class Time/Location: Mondays, Wednnesdays & Fridays, 12:20-1:15pm, GOL-2570
+- Class Time/Location: Mondays, Wednesdays & Fridays, 12:20-1:15pm, GOL-2570
 - [Schedule of Topics and Assignments](Schedule.md) 
 
 ## Course Catalog Description 
