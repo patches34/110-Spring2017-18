@@ -158,7 +158,7 @@ This week you'll learn how to implement graphic design concepts, particularly gr
 - **[Thursday Exercise](weekly_materials/week8/webProjectCritique.md)** - On Thursday you'll bring a paper or HTML mockup of your web project to class, receive critiques from your group members, and then make changes to your mockup based on the critiques. 
 
 ## <a name="week9">Week 9</a> (Mar 19-23): Digital Image Concepts
-This week we'll talk about the underlying concepts critical to understanding digital images--including resolution, color models, compression, and file formats. This will require you to learn the basics of Adobe Photoshop, so that you can manipulate those aspects of images yourself. 
+This week we'll talk about the underlying concepts critical to understanding digital images--including resolution, color models, compression, and file formats. This will require you to learn the basics of Adobe Photoshop, so that you can manipulate those aspects of images yourself. There will be a quiz on Monday on the readings and a bonus quiz on friday.
 
 - **Tuesday Readings**
   - [Adobe.com: Image Essentials](https://helpx.adobe.com/photoshop/using/image-essentials.html)
@@ -166,19 +166,23 @@ This week we'll talk about the underlying concepts critical to understanding dig
   - [Wikipedia: Color Depth](https://en.wikipedia.org/wiki/Color_depth)
   - [WebDesigner: Understanding Popular Image Types and Formats](https://1stwebdesigner.com/image-file-types/)
 
-- **Thursday Homework**
+- **Wednesday Homework**
   - Prepare either a Photoshop mockup or a first version of your web project to bring to class. 
 
-- **Thursday Exercise**: This class will be devoted to work and critique time for your web projects. (This is not optional.) 
+- **Wednesday Exercise**: This class will be devoted to work and critique time for your web projects. (This is not optional.)
 
-## <a name="week10">Week 10 (Mar 26-30): HTML & CSS Review
-On Tuesday I'll review some HTML & CSS concepts. If there's time, I'll give you a chance to work on improving your web project.  If you are comfortable with your mastery of HTML, you can choose to skip Tuesday's class. However, students who attend class on Tuesday will be given an extension on their web project until 11:59pm on Friday, March 30. 
+- **Friday Exercide(weekly_materials/week9/color-optimizationExercise.md)** - This exercise will give you experience with different image formats and optimizing them for the web.
 
-On Thursday I will give a quiz on the HTML & CSS concepts in the readings, and will again provide work time on your projects.
+## <a name="week10">Week 10 (Mar 26-30): Digital Image Applications
+This week we'll talk about applications to make and edit images.  If you are comfortable with your mastery of HTML, you can choose to skip Wednesday's class. However, students who attend class on Wednesday will be given an extension on their web project until 11:59pm on Friday, March 30. 
+
+On Wednesday I will give a quiz on the HTML & CSS concepts in the readings, and will again provide work time on your projects.
 
 - **Readings**
   - W3 Schools: [CSS Syntax](https://www.w3schools.com/cssref/css_selectors.asp), [CSS Borders](https://www.w3schools.com/css/css_border.asp), [CSS Links](https://www.w3schools.com/css/css_link.asp), [CSS Lists](https://www.w3schools.com/css/css_list.asp), and [CSS Website Layout](https://www.w3schools.com/css/css_website_layout.asp)
   - MDN: [Simple CSS Selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Simple_selectors), [Combinators and Multiple Selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Combinators_and_multiple_selectors), [Web Fonts](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Web_fonts)
+  
+- **[Friday Exercise](weekly_materials/week10/compositingExercise.md)** - This exercise will give you experience with PhotoShop.
 
 ## <a name="week11">Week 11</a> (Apr 2-6): Animation Concepts
 
